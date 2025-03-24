@@ -26,11 +26,6 @@ idConstants = {'alarm clock': [False, 0, 6, 3, 7, 7, 'special?', 'EAR-HURTING, S
 synergyRain = ['brain', 'bush', 'door', 'duck', 'grass', 'paintbrush', 'rain', 'rainbow', 'sun', 'umbrella']
 # These are items that I have personally decided should have synergy with rain. Some make sense, some don't.
 
-def identifyDoodle():
-    # This function would implement DL.
-    # It would return a 2D list in a format like this: [["apple", 0.9],["banana",0.05],["cat",0.05]]
-    return []
-
 def makeshiftDoodle():
     # This function was made for my battle mechanic testing.
     # This function generates a random percent composition of three random IDs and sorts the 2D list.
