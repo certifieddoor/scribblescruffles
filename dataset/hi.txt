@@ -1,2 +1,47 @@
 The datasets are from https://github.com/googlecreativelab/quickdraw-dataset/blob/master/README.md
 They are too big to upload onto here.
+
+Go to https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects
+Download the following npz files! 
+alarm clock
+apple
+banana
+brain
+bush
+cactus
+calculator
+cat
+cello
+chair
+circle
+clarinet
+coffee cup
+crown
+door
+duck
+eye
+grapes
+grass
+hand
+ice cream
+line
+microphone
+mushroom
+octopus
+paintbrush
+parrot
+pineapple
+pizza
+rain
+rainbow
+saxophone
+skull
+squiggle
+squirrel
+strawberry
+sun
+triangle
+trombone
+trumpet
+umbrella
+zigzag
