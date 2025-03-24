@@ -1,0 +1,2 @@
+The datasets are from https://github.com/googlecreativelab/quickdraw-dataset/blob/master/README.md
+They are too big to upload onto here.
