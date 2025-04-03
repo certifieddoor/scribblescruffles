@@ -2,6 +2,8 @@ NUM_DRAWINGS = 42
 from idConstants import idConstants
 import numpy as np
 
+data = np.load()
+
 ########ACTIVATION FUNCTION########
 
 def relu(x):
