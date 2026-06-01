@@ -225,9 +225,9 @@ def runGame():
     if isRaining:
         print("It is raining. Some scribbles may have synergistic relations with the rain.")
     # At this identifyDoodle() section, there would be a prompt for the user to doodle on a screen.
-    teamList = identifyDoodle()
+    # teamList = identifyDoodle()
     # Then, there would be a prompt for them to draw the opposition, or to pass the device to an enemy for them to draw the opposition.
-    oppList = identifyDoodle()
+    # oppList = identifyDoodle()
     # For the sake of this project, the makeshift doodles are used.
     teamList = makeshiftDoodle()
     oppList = makeshiftDoodle()
